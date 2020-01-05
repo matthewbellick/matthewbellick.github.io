@@ -1,0 +1,59 @@
+body {
+    background: black;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+}
+
+.ascii-art {
+    font-family: monospace;
+    white-space: pre;
+    color: white;
+    position: absolute;
+    margin-top: 250px
+}
+
+.speech-bubble {
+    fill: green;
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    top: 10px;
+    left: 300px;
+}
+
+.code-intro {  
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    color: white;
+    white-space: pre;
+    line-height: 150%;
+}
+
+.print-statement {
+    color: white;
+    position: absolute;
+    margin: auto auto;
+    top: 46%;
+    right: 13%;
+    font-size: 30px;
+
+}
+
+
+/*h1 {
+    background:white;
+    color: black;
+    margin: 10;
+}
+
+nav ul {
+    margin: 0;
+
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    background: white;
+    color: black; 
+}*/
